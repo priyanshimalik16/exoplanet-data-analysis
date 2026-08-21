@@ -10,8 +10,8 @@ Data science internship project using NASA's Exoplanet Archive
 | 1 | Data cleaning and exploratory analysis | week1_task.ipynb |
 | 2 | Data visualization and storytelling | week2_task.ipynb |
 | 3 | Hypothesis testing (t-test) | week3_task.ipynb |
-| 4 | *(in progress)* | |
-| 5 | *(in progress)* | |
+| 4 | Machine learning classification (logistic regression) |week4_task.ipynb |
+| 5 | Comprehensive synthesis report | (report only, no code) |
 
 ## What I found
 
